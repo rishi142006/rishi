@@ -1,0 +1,16 @@
+body{
+    background-color: pink;
+}
+.head{
+    color: blue;
+}
+#bglime{
+    background-color: white;
+    color: red;
+}
+p{
+    text-transform: capitalize;
+}
+#para{
+    color: green;
+}
